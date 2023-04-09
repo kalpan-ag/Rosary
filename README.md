@@ -1,5 +1,4 @@
-![](https://drive.google.com/uc?export=download&id=1F2Q2F96AupNBAreSQ6HJYJREWrtCIZOk)
-Rosary is a gothic isometric roguelike narrative dungeon crawler where a girl named Rosy seeks vengeance upon a religious order, “The Hands of the Allfather”, for burning her family at the stake due to supposed witchcraft. Possessed by Surtan, a powerful demonic entity, Rosy is compelled by the whispers in her mind to fight her way through the Temple of the Allfather to reach the Divine Gate, which Surtan has told her lies within the Inner Sanctum. There, she believes she can release Surtan’s full form to wreak havoc upon those that slew her family.
+
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -21,22 +20,9 @@ Rosary is a gothic isometric roguelike narrative dungeon crawler where a girl na
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<div align="center">
-    <img src="Title.jpg">
-</div>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <h3 align="center">Rosary</h3>
-  <p align="justify">
-    Rosary is a gothic 2.5D roguelike narrative dungeon crawler where the player takes on the role of Rosy seeking vengeance on the religious order that burned her family at the stake for witchcraft, with the help of a demonic entity, Surtan.
-    <br />
-    <div align="center">
-    <a href="https://www.youtube.com/embed/Tpz537jXkXo?autoplay=1&mute=1" target="_blank">Trailer</a>
-    </div>
-  </p>
-</div>
+![](https://drive.google.com/uc?export=download&id=1F2Q2F96AupNBAreSQ6HJYJREWrtCIZOk)
+Rosary is a gothic isometric roguelike narrative dungeon crawler where a girl named Rosy seeks vengeance upon a religious order, “The Hands of the Allfather”, for burning her family at the stake due to supposed witchcraft. Possessed by Surtan, a powerful demonic entity, Rosy is compelled by the whispers in her mind to fight her way through the Temple of the Allfather to reach the Divine Gate, which Surtan has told her lies within the Inner Sanctum. There, she believes she can release Surtan’s full form to wreak havoc upon those that slew her family.
+[Trailer](https://www.youtube.com/embed/Tpz537jXkXo?autoplay=1&mute=1)
 
 <!-- TABLE OF CONTENTS -->
 <details>
